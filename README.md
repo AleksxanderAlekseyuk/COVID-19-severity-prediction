@@ -1,1 +1,4 @@
 # COVID-19-severity-prediction
+
+
+An approach is presented that allows using a machine learning model to predict the resistance and severity of the course of a new coronavirus infection. Purpose. Analyze laboratory and clinical data of patients with new coronavirus infection. Methodology. A retrospective analysis of the data of patients treated in the health care institution "Grodno Regional Hospital of Medical Rehabilitation" and the construction of a gradient boosting model in order to predict the severity of the course of the disease was carried out. Results and discussion. The constructed model was evaluated by metrics: AUC - 0.87, sensitivity - 88.9%. Thus, the use of an approach using a gradient boosting algorithm can help to optimize the choice of therapy for patients with new coronavirus infection. Conclusions. Machine learning may lead to better patient therapy given the likelihood of infection
